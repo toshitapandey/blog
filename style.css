@@ -68,8 +68,8 @@ footer {
     padding: 10px 0;
     position: fixed;
     bottom: 0;
-    width: calc(100% - 220px); /* Adjusting for the left-side header */
-    left: 220px;
+    width: 100%;
+    /* left: 220px; */
 }
 
 /* ... previous CSS ... */
