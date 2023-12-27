@@ -1,0 +1,8 @@
+# Welcome Search Engine Bots
+
+User-agent: *
+
+Disallow: 
+
+# Sitemap files
+Sitemap: https://toshitapandey.com/sitemap.xml
